@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer p-10 bg-gray-700 text-primary-content footer-center">
       <div>
-        <p><a href="https://github.com/ehma90">ehma.dev</a> Copyright &copy; {updateYear}</p>
+        <p className="text-blue-200"><a href="https://github.com/ehma90">ehma.dev</a> Copyright &copy; {updateYear}</p>
       </div>
     </footer>
   );
