@@ -31,3 +31,5 @@ export const AlertProvider = ({children}) => {
         {children}
     </AlertContext.Provider>
 }
+
+export default AlertContext
