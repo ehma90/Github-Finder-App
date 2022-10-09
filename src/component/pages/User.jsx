@@ -28,10 +28,9 @@ function User() {
     type,
     avatar_url,
     location,
+    twitter_username,
     bio,
     blog,
-    twitter_username,
-    login,
     html_url,
     followers,
     following,
@@ -98,23 +97,23 @@ function User() {
                     <a
                       href={`https://${blog}`}
                       target="_blank"
-                      ref="noreferrer"
+                      rel="noreferrer"
                     >
                       {blog}
                     </a>
                   </div>
                 </div>
               )}
-              {/* {twitter_username && (
+              {twitter_username && (
                   <div className="stat">
                     <div className="stat-title text-md">
                       Website
                     </div>
                     <div className="text-lg stat-value">
-                      <a href={`https://twiiter.com/${twitter_username}`} target="_blank" ref="noreferrer">{twitter_username}</a>
+                      <a href={`https://twiiter.com/${twitter_username}`} target="_blank" rel="noreferrer">{twitter_username}</a>
                     </div>
                   </div>
-                )} */}
+                )}
             </div>
           </div>
         </div>
