@@ -22,7 +22,7 @@
 
 ## Vercel Deployment
 
-Deployed on [Vercel](https://brand-website-demo.vercel.app/) 
+Deployed on [Vercel](https://githubfinder-app-two.vercel.app/) 
 
 ## Show your support
 
