@@ -20,21 +20,12 @@
 👤 **Brad Traversy (Udemy Tutor)**
 
 
-## Vercel Deployment
+### Description 
+This project was developed utilizing the GitHub API to enable the exploration of GitHub users and exhibit select information pertaining to individual users. The construction of this project employed React.js, TailwindCss, and DaisyUI
+
+
+#### Deploy
 
 Deployed on [Vercel](https://githubfinder-app-two.vercel.app/) 
 
-## Show your support
-
-Give a ⭐ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
 
